@@ -1,0 +1,29 @@
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Gradient STD\Erosion-Ters simetri\bin\Debug\Image Processing.exe.config
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Gradient STD\Erosion-Ters simetri\bin\Debug\Image Processing.exe
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Gradient STD\Erosion-Ters simetri\bin\Debug\Image Processing.pdb
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Gradient STD\Erosion-Ters simetri\obj\Debug\Erosion_Ters_simetri.Form1.resources
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Gradient STD\Erosion-Ters simetri\obj\Debug\Image.Properties.Resources.resources
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Gradient STD\Erosion-Ters simetri\obj\Debug\Image Processing.csproj.GenerateResource.cache
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Gradient STD\Erosion-Ters simetri\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Gradient STD\Erosion-Ters simetri\obj\Debug\Image Processing.exe
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Gradient STD\Erosion-Ters simetri\obj\Debug\Image Processing.pdb
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Image Processing\Erosion-Ters simetri\bin\Debug\Image Processing.exe.config
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Image Processing\Erosion-Ters simetri\bin\Debug\Image Processing.exe
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Image Processing\Erosion-Ters simetri\bin\Debug\Image Processing.pdb
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Image Processing\Erosion-Ters simetri\obj\Debug\Image Processing.csprojAssemblyReference.cache
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Image Processing\Erosion-Ters simetri\obj\Debug\Image_Processing.Form1.resources
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Image Processing\Erosion-Ters simetri\obj\Debug\Image.Properties.Resources.resources
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Image Processing\Erosion-Ters simetri\obj\Debug\Image Processing.csproj.GenerateResource.cache
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Image Processing\Erosion-Ters simetri\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Image Processing\Erosion-Ters simetri\obj\Debug\Image Processing.exe
+D:\Ödevler\2019\Görüntü İşleme\ödev 5\201613171008 - Emrah BAYAR\Image Processing\Erosion-Ters simetri\obj\Debug\Image Processing.pdb
+C:\Users\Emrah\Desktop\Image Processing\Image-Processing\obj\Debug\Image Processing.csprojAssemblyReference.cache
+C:\Users\Emrah\Desktop\Image Processing\Image-Processing\obj\Debug\Image_Processing.Form1.resources
+C:\Users\Emrah\Desktop\Image Processing\Image-Processing\obj\Debug\Image.Properties.Resources.resources
+C:\Users\Emrah\Desktop\Image Processing\Image-Processing\obj\Debug\Image Processing.csproj.GenerateResource.cache
+C:\Users\Emrah\Desktop\Image Processing\Image-Processing\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+C:\Users\Emrah\Desktop\Image Processing\Image-Processing\obj\Debug\Image Processing.exe
+C:\Users\Emrah\Desktop\Image Processing\Image-Processing\obj\Debug\Image Processing.pdb
+C:\Users\Emrah\Desktop\Image Processing\Image-Processing\bin\Debug\Image Processing.exe.config
+C:\Users\Emrah\Desktop\Image Processing\Image-Processing\bin\Debug\Image Processing.exe
+C:\Users\Emrah\Desktop\Image Processing\Image-Processing\bin\Debug\Image Processing.pdb
